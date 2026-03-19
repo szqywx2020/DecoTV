@@ -129,6 +129,9 @@ importers:
       '@next/eslint-plugin-next':
         specifier: ^16.1.0
         version: 16.1.0
+      '@opennextjs/cloudflare':
+        specifier: ^1.17.1
+        version: 1.17.1(next@16.1.0(@babel/core@7.28.5)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(wrangler@4.75.0)
       '@svgr/webpack':
         specifier: ^8.1.0
         version: 8.1.0(typescript@5.9.3)
