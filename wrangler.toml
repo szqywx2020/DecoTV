@@ -1,0 +1,5 @@
+name = "decotv"
+main = ".worker-next/index.mjs"
+compatibility_date = "2026-03-19"
+compatibility_flags = ["nodejs_compat"]
+experimental_assets = { directory = ".worker-next/assets", binding = "ASSETS" }
